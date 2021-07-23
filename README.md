@@ -1,4 +1,4 @@
-# Hola-Mundo
+# Hola-mundo
 Mi primer repositorio
 
 Autora: Tania Murguia
